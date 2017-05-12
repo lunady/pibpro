@@ -12,6 +12,6 @@
 2. 启动项目
 	- 全局安装gulp
 	- <pre>cnpm i --save-dev gulp-clean gulp-concat gulp-connect gulp-cssmin gulp-imagemin gulp-less gulp-load-plugins gulp-uglify open<pre>
-	- 命令行gulp
+	
 	
 ---
